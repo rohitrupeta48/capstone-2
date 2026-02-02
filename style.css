@@ -21,7 +21,7 @@ a {
 }
 
 .hero-image {
-    width: 10rem;
+    height: 12rem;
     position: relative;
     right: 2rem;
 }
@@ -144,4 +144,5 @@ a {
     padding-bottom: 2rem;
     font-family: "Roboto", sans-serif;
     font-size: 1.25rem;
+
 }
