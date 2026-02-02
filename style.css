@@ -21,9 +21,9 @@ a {
 }
 
 .hero-image {
-    height: 12rem;
+    height: 10rem;
     position: relative;
-    right: 2rem;
+    right: 3rem;
 }
 
 .hero-content {
@@ -146,3 +146,4 @@ a {
     font-size: 1.25rem;
 
 }
+
